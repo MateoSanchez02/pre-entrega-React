@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta Titular Argentina 2026",
+    "price": 120000,
+    "category": "Camisetas",
+    "description": "Camiseta oficial titular de la Selección Argentina con el parche de campeón del mundo y estampado de Messi.",
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Camiseta Suplente Argentina 2026",
+    "price": 110000,
+    "category": "Buzos",
+    "description": "Camiseta suplente original. 3 estrellas, parche de campeon del mundo. La del partido con Inglaterra. No necesita mas presentacion",
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Short Argentina 2004",
+    "price": 29000,
+    "category": "Pantalones",
+    "description": "Short titular de la seleccion argentina año 2004. Una prenda de coleccion ",
+    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Campera Rompevientos Argentina 2026",
+    "price": 140000,
+    "category": "Camperas",
+    "description": "Campera rompevientos e impermeable con capucha ajustables. Nueva con etiquetas",
+    "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=500&q=80"
+  }
+]
